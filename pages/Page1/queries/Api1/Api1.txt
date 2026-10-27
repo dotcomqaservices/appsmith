@@ -1,0 +1,6 @@
+{
+  "messaging_product": "whatsapp",
+  "cc": "974",
+  "phone_number": "{{whatsappBSN.text}}",
+  "pin": "{{PinInput.text}}"
+}
