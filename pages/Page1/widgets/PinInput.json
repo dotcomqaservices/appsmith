@@ -12,9 +12,6 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "label"
     }
   ],
   "dynamicHeight": "FIXED",
@@ -26,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "aen60181dr",
-  "label": "{{PinInput.text}}",
+  "label": "Whatsapp PIN",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
