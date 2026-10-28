@@ -1,4 +1,4 @@
-xport default {
+export default {
 	Button1onClick () {
 		return storeValue('configID', '1098221816338655').then(() => {
 			showAlert('Configuration ID saved successfully!', 'success');
