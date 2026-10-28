@@ -29,7 +29,7 @@
           "data": ""
         },
         "rowObjects": {
-          "data": "{\n  \"Messaging Product\": \"whatsapp\",\n  \"CC\": \"974\",\n  \"Phone Number\": \"{{whatsappBSN.text}}\",\n  \"Pin\": \"{{PinInput.text}}\"\n}"
+          "data": "{\n  \"Messaging Product\": \"whatsapp\",\n  \"CC\": \"974\",\n  \"Phone Number\": \"{{whatsappBSN.text}}\",\n  \"Pin\": \"{{PinInput.text}}\",\n  \"Date\": \"{{new Date().toLocaleString()}}\"\n}"
         },
         "sheetName": {
           "data": "Sheet1"
